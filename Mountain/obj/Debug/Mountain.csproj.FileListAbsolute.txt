@@ -4,3 +4,9 @@ c:\users\reemaso\documents\visual studio 2013\Projects\Mountain\Mountain\bin\Mou
 c:\users\reemaso\documents\visual studio 2013\Projects\Mountain\Mountain\obj\Debug\Mountain.csprojResolveAssemblyReference.cache
 c:\users\reemaso\documents\visual studio 2013\Projects\Mountain\Mountain\obj\Debug\Mountain.dll
 c:\users\reemaso\documents\visual studio 2013\Projects\Mountain\Mountain\obj\Debug\Mountain.pdb
+C:\Pranit\Mountain\Mountain\bin\Mountain.dll.config
+C:\Pranit\Mountain\Mountain\bin\Mountain.dll
+C:\Pranit\Mountain\Mountain\bin\Mountain.pdb
+C:\Pranit\Mountain\Mountain\obj\Debug\Mountain.csprojResolveAssemblyReference.cache
+C:\Pranit\Mountain\Mountain\obj\Debug\Mountain.dll
+C:\Pranit\Mountain\Mountain\obj\Debug\Mountain.pdb

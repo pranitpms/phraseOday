@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -57,6 +58,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\app.js" />
+    <Content Include="app\appRoute.js" />
+    <Content Include="app\common\entityService.js" />
+    <Content Include="app\phrase\phraseCtrl.js" />
+    <Content Include="app\phrase\phraseRoute.js" />
+    <Content Include="app\quotes\quoteCtrl.js" />
+    <Content Include="app\quotes\quoteRoute.js" />
+    <Content Include="app\word\wordCtrl.js" />
+    <Content Include="app\word\wordRoute.js" />
     <Content Include="default.css" />
     <Content Include="Home.html" />
     <Content Include="images\banner2.jpg" />
@@ -80,15 +90,14 @@
     <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\angular-route.js" />
     <Content Include="Scripts\angular-route.min.js" />
+    <Content Include="Scripts\angular-ui-router.js" />
+    <Content Include="Scripts\angular-ui-router.min.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\MyScript.js" />
-    <Content Include="Template\AboutUs.html" />
-    <Content Include="Template\ContactUs.html" />
-    <Content Include="Template\YesterdayPhraseOftheDay.html" />
-    <Content Include="Template\PhraseOftheDay.html" />
-    <Content Include="Template\QuoteOftheDay.html" />
-    <Content Include="Template\WordOftheDay.html" />
+    <Content Include="app\phrase\phrase.tplt.html" />
+    <Content Include="app\quotes\quotes.tplt.html" />
+    <Content Include="app\word\word.tplt.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
